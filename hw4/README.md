@@ -7,7 +7,7 @@
 1. 데이터 불균형 문제가 있는지 확인 (count)
 2. matplotlib로 훈련 csv 데이터의 첫번째 row를 이미지화 시켜 확인 (plotting)
 3. model load 및 save 코드 작성
-4. validation data에 대한 classification report 출력 및 해석 (recall, precision, micro avg, macro avg etc..)
+4. validation data에 대한 classification report 출력 및 해석 (recall, precision, micro avg, macro avg 정확한 의미 위주 etc..)
 5. validation data에 대한 confusion matrix 출력 및 해석 (x, y axis의 의미)
 6. accuracy 및 loss에 대한 learning curve 출력 (plotting)
 

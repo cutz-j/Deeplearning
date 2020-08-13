@@ -1,4 +1,4 @@
-### Network Debug
+### Neural Network Debug
 - https://www.kaggle.com/zalando-research/fashionmnist 링크에서 데이터 셋 다운로드
 - 예제 파일은 잘 작동하지 않는 파일입니다. 이 모델을 정상적으로 실행시켜 좋은 성능을 달성해야합니다.
 

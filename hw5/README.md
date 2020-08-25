@@ -9,3 +9,17 @@
 - 주석 달아주세요. 
 
 data download link: https://drive.google.com/drive/folders/1xlR0FmfOHQUvNMZSRvo9a3aDFdn_B9Hk?usp=sharing
+
+
+---
+| Who | Acc | Check |
+|---|:---:|:---:|
+| `강준형` | 92.19 | V |
+| `김동민` |  |  |
+| `김민하` | 90.12 | V |
+| `김유현` | 88.66 | V |
+| `김정호` | 89.58 | V | 
+| `김희성` |  |  |  
+| `박건우` | 92.45 | V | 
+| `윤선이` |  |  | 
+| `전소원` |  |  | 

@@ -17,7 +17,7 @@ data download link: https://drive.google.com/drive/folders/1xlR0FmfOHQUvNMZSRvo9
 | `강준형` |   |
 | `김동민` |   |
 | `김민하` |   |
-| `김유현` |   |
+| `김유현` | V |
 | `김정호` | V | 
 | `김희성` |   |  
 | `박건우` |   | 

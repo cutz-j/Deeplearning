@@ -1,2 +1,2 @@
 # Deeplearning
- Deep learning study
+ Deep learning study for DASH lab
